@@ -1,3 +1,3 @@
 ``` 
-Uma Podédex feito com HTML, Javascript e CSS.
+Uma Pokédex feito com HTML, Javascript e CSS.
 ```
