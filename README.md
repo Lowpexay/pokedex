@@ -6,7 +6,7 @@ Um teste de js, css e html com uma pokédex
 | -------------  | --- |
 | :sparkles: Nome        | **Pokédex**
 | :label: Tecnologias | javascript, html, css(tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL       | https://lowpexay.github.io/pokedex/
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
