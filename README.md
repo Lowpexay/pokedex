@@ -2,7 +2,7 @@
 
 Um teste de js, css e html com uma pokédex
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  Lowpexay   |
 | -------------  | --- |
 | :sparkles: Nome        | **Pokédex**
 | :label: Tecnologias | javascript, html, css(tecnologias utilizadas)
